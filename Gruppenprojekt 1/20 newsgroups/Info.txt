@@ -1,0 +1,4 @@
+Information about the full data set at http://qwone.com/~jason/20Newsgroups/
+This is a subset of four newsgroups
+
+Die Klassen entsprechen den folgenden Labels: 0: 'atheism' 1: 'graphics' 2: 'space' 3: 'religion.misc'
